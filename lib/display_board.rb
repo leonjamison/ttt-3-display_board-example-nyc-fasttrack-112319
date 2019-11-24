@@ -1,3 +1,5 @@
 def display_board
   puts "Tic Tac Toe Board"
-end 
+end
+
+display_board
