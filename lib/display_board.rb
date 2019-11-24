@@ -5,6 +5,6 @@ def display_board
     puts "   |   |   "
     puts "-----------"
     puts "   |   |   "
+  print_display_board
+  end
 end
-
-print_display_board
