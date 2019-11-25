@@ -1,4 +1,4 @@
-def display_board
+def print_and_return_display_board
   puts "Tic Tac Toe Board"
     puts "   |   |   "
     puts "-----------"
@@ -6,5 +6,3 @@ def display_board
     puts "-----------"
     puts "   |   |   "
 end
-
-print_and_return "display_board"
